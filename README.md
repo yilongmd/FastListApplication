@@ -17,6 +17,10 @@ extends JwListActivity
         initListViewController();
     }
 
+     /**
+     * init ListView Controller
+     * 初始化ListViewController
+     */
     @Override
     protected void initListViewController() {
         commonAdapter = new CommonAdapter<MsgItem>(this, mListItems, android.R.layout.simple_list_item_1) {
@@ -32,8 +36,8 @@ extends JwListActivity
     }
 
     /**
-     * // 下拉Pulling Down
-     //Http Get  update mListItems
+     * 下拉Pulling Down
+     * Http Get  update mListItems
      */
     @Override
     protected void onListViewHeadRefresh() {
@@ -43,8 +47,8 @@ extends JwListActivity
     }
 
     /**
-     * // 上拉Pulling Up
-     //Http Get
+     * 上拉Pulling Up
+     * Http Get
      */
     @Override
     protected void onListViewFooterRefresh() {
