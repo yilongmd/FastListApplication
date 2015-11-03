@@ -5,7 +5,6 @@ Pull to refresh the list quickly integrated(上下拉刷新列表快速集成)
 extends JwListActivity
 
 ### quickly JwListActivity 
-### 比如我们可以在多行文本框里输入一段代码,来一个Java版本的HelloWorld吧  
     public class MainActivity extends JwListActivity {
     List<MsgItem> mListItems; //dataSource
     CommonAdapter commonAdapter; //commonAdapter 万能适配器
