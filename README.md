@@ -61,4 +61,4 @@ extends JwListActivity
     }
 
 # 示例图
-![image](https://github.com/yilongmd/FastListApplication/blob/master/githubimages/testdoctor.jpg)
+![image](/githubimages/testdoctor.jpg)
