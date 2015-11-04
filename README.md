@@ -1,5 +1,8 @@
 # FastListApplication
 Pull to refresh the list quickly integrated(上下拉刷新列表快速集成)
++
+Common Adapter (万能适配器)
+
 
 ### extends
 extends JwListActivity
@@ -57,4 +60,5 @@ extends JwListActivity
     }
     }
 
-
+# 示例图
+(https://github.com/yilongmd/FastListApplication/edit/master/githubimages/testdoctor.jpg)
