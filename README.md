@@ -1,8 +1,10 @@
 # FastListApplication For Android
 Pull to refresh the list quickly integrated(上下拉刷新列表快速集成)
 +
-Common Adapter (万能适配器)
+Common Adapter (快速适配器)
 
+# to release to jcenter, let it can directly from Gradle loading, teach trouble understand, thank you very much!!!
+# 想发布到jcenter中,让它可以直接从Gradle加载,麻烦懂的教一下,感激不尽!!!
 
 ### extends
 extends JwListActivity
