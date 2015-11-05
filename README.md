@@ -2,9 +2,11 @@
 Pull to refresh the list quickly integrated(上下拉刷新列表快速集成)
 +
 Common Adapter (快速适配器)
+A few lines of code(几行代码即可)
 
-# to release to jcenter, let it can directly from Gradle loading, teach trouble understand, thank you very much!!!
-# 想发布到jcenter中,让它可以直接从Gradle加载,麻烦懂的教一下,感激不尽!!!
+### to release to jcenter, let it can directly from Gradle loading, teach trouble understand, thank you very much!!!
+### 想发布到jcenter中,让它可以直接从Gradle加载,麻烦懂的教一下,感激不尽!!!
+
 
 ### extends
 extends JwListActivity
@@ -64,3 +66,6 @@ extends JwListActivity
 
 # 示例图
 ![image](/githubimages/testdoctor.jpg)
+
+#Do share for the first time, don't understand
+#第一次做共享,不大懂
