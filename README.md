@@ -1,4 +1,5 @@
 # FastListApplication For Android
+delete error remarks
 Pull to refresh the list quickly integrated(上下拉刷新列表快速集成)
 +
 Common Adapter (快速适配器)

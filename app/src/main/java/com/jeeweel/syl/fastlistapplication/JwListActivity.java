@@ -95,12 +95,6 @@ public class JwListActivity extends Activity {
         // 下拉的时候数据重置
         new FinishRefresh(JwListActivity.this, 1).execute();
     }
-
-//    public void onListViewRefrsh(){
-//        //第一次打开启动加载动画
-////        showLoading();
-//        new FinishRefresh(JwListActivity.this, 0).execute();
-//    }
     /**
      * 用来异步加载数据
      */
